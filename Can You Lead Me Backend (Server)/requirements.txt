@@ -3,7 +3,7 @@ Flask-GoogleMaps==0.1.5
 Jinja2==2.7.3
 MarkupSafe==0.23
 PyYAML==4.2b1
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 beautifulsoup4==4.3.2
 googlemaps==1.0.2
 httplib2==0.9
