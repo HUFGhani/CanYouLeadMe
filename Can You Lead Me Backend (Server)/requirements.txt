@@ -1,6 +1,6 @@
 Flask==1.0
 Flask-GoogleMaps==0.1.5
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 PyYAML==4.2b1
 Werkzeug==0.15.3
